@@ -1,4 +1,9 @@
 {
   "ships": [
-  ],
+    {
+      "class": "Defiant",
+      "faction": "Federation",
+      "model": "defiant/defiant.obj"
+    }
+  ]
 }
