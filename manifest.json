@@ -3,7 +3,8 @@
     {
       "class": "Defiant",
       "faction": "Federation",
-      "model": "defiant/defiant-1_4.babylon"
+      "model": "defiant/defiant-1_4.babylon",
+      "scale": 0.5
     }
   ]
 }
